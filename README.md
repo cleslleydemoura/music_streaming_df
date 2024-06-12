@@ -1,6 +1,6 @@
 <h1>Projeto DataFrame com tema Streaming Musical</h1>
 
-<p> O projeto foi desenvolvido em Python utilizando a biblioteca Pandas com manipulação do DataFrame, informações importantes sobre cada lançamento agrupadas em uma tabela bem estruturada e informativa, como nome das músicas, artistas, albúns, gênero, ano de lançamento e duração da música.</p>
+<p> Este projeto foi desenvolvido em Python utilizando a biblioteca Pandas com manipulação do DataFrame, informações importantes sobre cada lançamento agrupadas em uma tabela bem estruturada e informativa, como nome das músicas, artistas, albúns, gênero, ano de lançamento e duração da música.</p>
 
 <p> Ao decorrer do projeto deixei comentários e textos explicativos sobre os métodos, suas funções e funcionamento.</p>
 <p>Arquivos .py e .ipynb anexados neste projeto.</p>
